@@ -1,4 +1,9 @@
-### Hi there 👋
+### <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" alt="Girl in a jacket" width="40" height="40">
+
+Hi, Welcome to my Github profile.
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/cryptic.coder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamcrypticcoder/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/iamcrypticcoder) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Mahbubur-Rahman-7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1097603/iamcrypticcoder)
 
 <!--
 **iamcrypticcoder/iamcrypticcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
